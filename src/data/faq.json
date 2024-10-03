@@ -1,26 +1,26 @@
 [
   {
-    "question": "What is Hirrd?",
-    "answer": "Hirrd is a Job Portal Application allows companies to post job listings and users to search and apply for jobs. It provides features for both job seekers and employers, with user-friendly interfaces and secure authentication."
+    "question": "What is Job Junction?",
+    "answer": "Job Junction is a comprehensive job portal that connects employers with job seekers. Our platform allows companies to post job listings and enables users to search and apply for jobs easily. We offer features for both job seekers and employers, with a user-friendly interface and secure authentication."
   },
   {
-    "question": "How do I post a job?",
-    "answer": "As an employer, you can post a job by navigating to the 'Post Job' section after logging in. Fill in the job details and submit the form to create a new job listing."
+    "question": "How do I post a job on Job Junction?",
+    "answer": "As an employer, you can post a job by logging into your account and navigating to the 'Post Job' section. Simply fill in the job details in the provided form and submit it to create a new job listing."
   },
   {
-    "question": "How can I search for jobs?",
-    "answer": "Job seekers can search for jobs by keywords, location, category, and other filters using the search bar on the homepage or the dedicated job search page."
+    "question": "How can I search for jobs on Job Junction?",
+    "answer": "Job seekers can use our powerful search functionality to find jobs. You can search by keywords, location, category, and other filters using the search bar on the homepage or our dedicated job search page."
   },
   {
-    "question": "How do I apply for a job?",
-    "answer": "To apply for a job, click on the job listing and follow the application instructions provided. You may need to upload your resume and provide additional information."
+    "question": "What is the process for applying to a job on Job Junction?",
+    "answer": "To apply for a job, click on the job listing that interests you and follow the application instructions provided. You may need to upload your resume and provide additional information as requested by the employer."
   },
   {
-    "question": "Can I save jobs to apply later?",
-    "answer": "Yes, you can save job listings by clicking the 'Save Job' button on the job listing. Saved jobs can be accessed from your profile under the 'Saved Jobs' section."
+    "question": "Can I save interesting job listings for later?",
+    "answer": "Yes, Job Junction allows you to save job listings for future reference. Simply click the 'Save Job' button on any job listing. You can access your saved jobs from your profile under the 'Saved Jobs' section."
   },
   {
-    "question": "How do I track my job applications?",
-    "answer": "Job seekers can track the status of their applications from the 'Applications' section in their profile. This section provides updates on the progress of each application."
+    "question": "How can I keep track of my job applications on Job Junction?",
+    "answer": "Job Junction makes it easy to track your applications. Visit the 'Applications' section in your profile to see the status and progress of each job you've applied for through our platform."
   }
 ]
