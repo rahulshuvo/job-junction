@@ -99,7 +99,7 @@ const JobListing = () => {
           </SelectTrigger>
           <SelectContent>
             <SelectGroup>
-              {State.getStatesOfCountry("IN").map(({ name }) => {
+              {State.getStatesOfCountry("DE").map(({ name }) => {
                 return (
                   <SelectItem key={name} value={name}>
                     {name}
